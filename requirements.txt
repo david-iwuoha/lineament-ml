@@ -1,0 +1,12 @@
+numpy
+scipy
+pandas
+matplotlib
+rasterio
+geopandas
+shapely
+scikit-learn
+harmonica
+verde
+pygmi
+folium
